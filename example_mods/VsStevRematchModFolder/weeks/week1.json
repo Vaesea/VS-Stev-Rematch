@@ -1,0 +1,54 @@
+{
+	"songs": [
+		[
+			"greeting",
+			"stevreal",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"not fake",
+			"stevreal",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"wow",
+			"stevreal",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"oh my god",
+			"stevreal",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stev",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "stev",
+	"weekName": "Stev Week",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

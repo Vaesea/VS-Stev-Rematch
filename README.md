@@ -39,4 +39,4 @@ Everyone who worked on Psych Engine (Psych Engine)
 - [x] Plains (Stev) (Extra) (Made by Vaesea)
 
 ## Info
-Fanmade songs are welcome, and fanmade versions of the songs that haven't been made yet are welcome.
+Fanmade songs are welcome, and fanmade versions of the songs that haven't been made yet are welcome. Remixes are also welcome.

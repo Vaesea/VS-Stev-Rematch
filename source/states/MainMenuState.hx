@@ -143,7 +143,7 @@ class MainMenuState extends MusicBeatState
 						selectedItem = rightItem;
 				}
 
-				else if(rightItem != null && FlxG.mouse.overlaps(rightItem))
+				if(rightItem != null && FlxG.mouse.overlaps(rightItem))
 				{
 					allowMouse = true;
 					if(selectedItem != rightItem)

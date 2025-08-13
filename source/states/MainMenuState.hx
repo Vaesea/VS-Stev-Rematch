@@ -7,7 +7,6 @@ import states.editors.MasterEditorMenu;
 import options.OptionsState;
 
 enum MainMenuColumn {
-	LEFT;
 	CENTER;
 	RIGHT;
 }
@@ -20,7 +19,6 @@ class MainMenuState extends MusicBeatState
 	var allowMouse:Bool = false; //Turn this off to block mouse movement in menus
 
 	var menuItems:FlxTypedGroup<FlxSprite>;
-	var leftItem:FlxSprite;
 	var rightItem:FlxSprite;
 
 	//Centered/Text options
@@ -141,21 +139,10 @@ class MainMenuState extends MusicBeatState
 				{
 					case CENTER:
 						selectedItem = menuItems.members[curSelected];
-					case LEFT:
-						selectedItem = leftItem;
 					case RIGHT:
 						selectedItem = rightItem;
 				}
 
-				if(leftItem != null && FlxG.mouse.overlaps(leftItem))
-				{
-					allowMouse = true;
-					if(selectedItem != leftItem)
-					{
-						curColumn = LEFT;
-						changeItem();
-					}
-				}
 				else if(rightItem != null && FlxG.mouse.overlaps(rightItem))
 				{
 					allowMouse = true;
@@ -201,16 +188,9 @@ class MainMenuState extends MusicBeatState
 			switch(curColumn)
 			{
 				case CENTER:
-					else if(controls.UI_RIGHT_P && rightOption != null)
+					if(controls.UI_RIGHT_P && rightOption != null)
 					{
 						curColumn = RIGHT;
-						changeItem();
-					}
-
-				case LEFT:
-					if(controls.UI_RIGHT_P)
-					{
-						curColumn = CENTER;
 						changeItem();
 					}
 
@@ -320,8 +300,6 @@ class MainMenuState extends MusicBeatState
 		{
 			case CENTER:
 				selectedItem = menuItems.members[curSelected];
-			case LEFT:
-				selectedItem = leftItem;
 			case RIGHT:
 				selectedItem = rightItem;
 		}

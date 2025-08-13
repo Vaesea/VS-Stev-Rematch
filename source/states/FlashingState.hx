@@ -25,9 +25,9 @@ class FlashingState extends MusicBeatState
 		add(texts);
 
 		var warnText:FlxText = new FlxText(0, 0, FlxG.width,
-			"Hey, watch out!\n
-			This Mod contains some flashing lights!\n
-			Do you wish to disable them?");
+			"hey dumbass\n
+			this mod contains some flashing lights\n
+			do you want to disable them????");
 		warnText.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, CENTER);
 		warnText.screenCenter(Y);
 		texts.add(warnText);

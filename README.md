@@ -55,5 +55,9 @@ Everyone who worked on Psych Engine (Psych Engine)
 - [x] Shinsei (Bmabi) (Extra) (Made by Your Average FNF Pro) (this is the bambi on the wall)
 - [x] Dragon Quest (Stev) (Extra) (Made by YaMarathonianz's Old Channel)
 
+Future versions will likely be made.
+
+Fantracks that I get permission to use could also be added to these versions (except V1 as that one is already done)
+
 ## Info
 Fanmade songs are welcome, and fanmade versions of the songs that haven't been made yet are welcome. Remixes are also welcome.

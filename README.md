@@ -22,8 +22,10 @@ Everyone who worked on Psych Engine (Psych Engine)
 - [x] Oh My God (Stev) (Week 1)
 - [x] Epic Guitar (Remake) (Stev) (Extra) (Made by Your Average FNF Pro) (Remake by Vaesea)
 - [x] Funny (Stev) (Extra)
-- [x] Scrapped Stev Fantrack (Stev) (Extra) (Made by Vaesea)
 - [x] Plains (Stev) (Extra) (Made by Vaesea)
+
+### V2.1
+It adds 1 song named Idyllic. Opponent = Stev, Made by Vaesea, already made.
 
 ### V3
 - [x] Greeting (Stev) (Week 1) (Made by Vaesea)

@@ -53,7 +53,6 @@ Everyone who worked on Psych Engine (Psych Engine)
 - [x] Griefer (Stev) (Extra) (Made by ?????? (Probably Your Average FNF Pro)) (Updated by Vaesea)
 - [x] Ingotto (3D Stev) (Extra) (Made by Your Average FNF Pro)
 - [x] Shinsei (Bmabi) (Extra) (Made by Your Average FNF Pro) (this is the bambi on the wall)
-- [x] Dragon Quest (Stev) (Extra) (Made by YaMarathonianz's Old Channel)
 
 Future versions will likely be made.
 
